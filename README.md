@@ -6,10 +6,13 @@ Changes the openui5 sample application to remove bower openui5/* packages and se
 ## run
 ### openui5 development:
 ` grunt serve `
-http://localhost:4020
+
+[connect server on http://localhost:4020] (http://localhost:4020)
 
 ### sprint-boot app:
 ` grunt build `
+
 ` mvn spring-boot:run `
-http://localhost:8080
+
+[spring-boot application on http://localhost:8080] (http://localhost:8080)
 
