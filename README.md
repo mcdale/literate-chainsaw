@@ -5,12 +5,11 @@ Gruntfile includes a task to symlink downloaded openui5-runtime-{version}/resour
 Changes the openui5 sample application to remove bower openui5/* packages and selects the sap_belize theme.
 ## run
 ### openui5 development:
-` grunt serve
+` grunt serve `
 http://localhost:4020
 
 ### sprint-boot app:
-` grunt build
-` mvn spring-boot:run
-
+` grunt build `
+` mvn spring-boot:run `
 http://localhost:8080
 
